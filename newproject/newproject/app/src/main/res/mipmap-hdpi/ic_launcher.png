@@ -1,0 +1,60 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="5" />
+      <entry action="$Delete" count="41" />
+      <entry action="$Paste" count="23" />
+      <entry action="$SelectAll" count="6" />
+      <entry action="$Undo" count="463" />
+      <entry action="Android.CreateResourceDirectory" count="4" />
+      <entry action="Android.RunAndroidAvdManager" count="1" />
+      <entry action="Android.RunAndroidSdkManager" count="5" />
+      <entry action="Android.SyncProject" count="3" />
+      <entry action="ChooseRunConfiguration" count="2" />
+      <entry action="CleanGradleProject" count="8" />
+      <entry action="CloseProject" count="3" />
+      <entry action="CodeCompletion" count="267" />
+      <entry action="CommentByLineComment" count="3" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="DialogOkAction Enter" count="27" />
+      <entry action="EditorBackSpace" count="2585" />
+      <entry action="EditorChooseLookupItem" count="1027" />
+      <entry action="EditorCopy" count="89" />
+      <entry action="EditorCut" count="26" />
+      <entry action="EditorDelete" count="9" />
+      <entry action="EditorDeleteToWordStart" count="1" />
+      <entry action="EditorDown" count="3310" />
+      <entry action="EditorEnter" count="676" />
+      <entry action="EditorLeft" count="309" />
+      <entry action="EditorLineEnd" count="1" />
+      <entry action="EditorNextWord" count="1" />
+      <entry action="EditorPaste" count="260" />
+      <entry action="EditorRight" count="413" />
+      <entry action="EditorSplitLine" count="3" />
+      <entry action="EditorToggleInsertState" count="4" />
+      <entry action="EditorUp" count="1576" />
+      <entry action="EncapsulateFields" count="1" />
+      <entry action="Generate" count="1" />
+      <entry action="GotoDeclaration" count="42" />
+      <entry action="HideAllWindows" count="6" />
+      <entry action="InvalidateCaches" count="4" />
+      <entry action="MakeGradleProject" count="1" />
+      <entry action="NewClass" count="3" />
+      <entry action="NewDir" count="2" />
+      <entry action="NewFile" count="1" />
+      <entry action="NewProject" count="8" />
+      <entry action="OpenFile" count="5" />
+      <entry action="PasteMultiple" count="1" />
+      <entry action="Print" count="1" />
+      <entry action="Progress Paused" count="1" />
+      <entry action="Progress Resumed" count="4" />
+      <entry action="RebuildGradleProject" count="4" />
+      <entry action="RenameElement" count="1" />
+      <entry action="RevealIn" count="1" />
+      <entry action="Run" count="82" />
+      <entry action="SaveAll" count="340" />
+      <entry action="SearchEverywhere" count="3" />
+      <entry action="ShowIntentionActions" count="13" />
+      <entry action="Terminal.OpenInTerminal" count="1" />
+      <entry action="ToggleLineBreakpoint" count="2" />
+      <entry action="template.create.ActivityEmpty Activity" count="3" /
